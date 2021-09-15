@@ -23,7 +23,7 @@ Create a branch that includes your name
     git checkout -b feature/your-name-goes-here main
 
 Once done make sure all the specs are passing and push any changes made to your feature branch.
-Inside the PR you have the opportunity to eloborate on any of the following if you feel neccessary:
+Create a PR and within the PR description you have the opportunity to eloborate on any of the following if you feel neccessary:
  
  * Any assumptions you made.
  * What potential problems can you identify with the existing code?
