@@ -6,9 +6,8 @@ In this exercise, you'll see that there's a method in the `PhonePlan` class that
 
 ## Instructions
 
-To start, you'll want to clone and run the setup script for the repo
+To start, you'll want to fork this repo and run the setup script
 
-    git clone git@github.com:kudocs/tech-exercise.git
     cd tech-exercise
     bin/setup
 
@@ -17,12 +16,7 @@ Open up `lib/phone_plan.rb`. There you will see a single method named `cost`. It
 Make sure all the tests are passing by running:
 
     bundle exec rspec
-		
-Create a branch that includes your name
 
-    git checkout -b feature/your-name-goes-here main
-
-Once done make sure all the specs are passing and push any changes made to your feature branch.
 Create a PR and within the PR description you have the opportunity to eloborate on any of the following if you feel neccessary:
  
  * Any assumptions you made.
